@@ -1,3 +1,3 @@
 function calculo() {
-    alert("hellow");
+    alert("hello");
 }
